@@ -1,7 +1,7 @@
 ---
 title: Aircrft Admin
-bio: "The startup network. Startups helping startups. Share what you're working on
-  at the moment, get support, help other startups. \n"
+bio: "Share what you're working on at the moment, get support, help other startups.
+  \n"
 avatar: "/images/aircrft-logo2.png"
 featured: true
 social:
