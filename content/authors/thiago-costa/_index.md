@@ -1,8 +1,7 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+title: Aircrft Admin
+bio: "The startup network. Startups helping startups. Share what you're working on
+  at the moment, get support, help other startups. \n"
 avatar: "/images/aircrft-logo2.png"
 featured: true
 social:
