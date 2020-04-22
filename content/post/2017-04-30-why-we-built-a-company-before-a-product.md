@@ -1,11 +1,11 @@
 ---
 title: 'Aircrft Library '
 date: 2020-04-22T07:00:00+00:00
-hero: "/images/hero-6.jpg"
+hero: "/images/D099D71E-7D31-46F5-9FA9-B12CCA150132.png"
 excerpt: Curated collection of must read books and other knowledge nuggets.
 timeToRead: 3
 authors:
-- Thiago Costa
+- Chai Forest
 
 ---
 Hello, world! This is a demo post for `hugo-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
