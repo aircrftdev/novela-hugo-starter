@@ -1,6 +1,6 @@
 ---
 title: 'Aircrft Library '
-date: 
+date: 2020-04-22T07:00:00+00:00
 hero: "/images/hero-6.jpg"
 excerpt: Curated collection of must read books and other knowledge nuggets.
 timeToRead: 3
